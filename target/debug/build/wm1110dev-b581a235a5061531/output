@@ -1,0 +1,5 @@
+cargo:rustc-link-arg=-L/Users/min22/sor/test_tock/boards/build_scripts
+cargo:rerun-if-changed=/Users/min22/sor/test_tock/boards/build_scripts/tock_kernel_layout.ld
+cargo:rustc-link-arg=-L/Users/min22/sor/test_tock/boards/wm1110dev
+cargo:rustc-link-arg=-Tlayout.ld
+cargo:rerun-if-changed=layout.ld

@@ -1,0 +1,11 @@
+/Users/min22/sor/test_tock/target/thumbv7em-none-eabihf/debug/deps/librtt_target-05c4ea60ec0d98f1.rmeta: /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/lib.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/debug.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/rtt.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/init.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/print.rs
+
+/Users/min22/sor/test_tock/target/thumbv7em-none-eabihf/debug/deps/librtt_target-05c4ea60ec0d98f1.rlib: /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/lib.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/debug.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/rtt.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/init.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/print.rs
+
+/Users/min22/sor/test_tock/target/thumbv7em-none-eabihf/debug/deps/rtt_target-05c4ea60ec0d98f1.d: /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/lib.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/debug.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/rtt.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/init.rs /Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/print.rs
+
+/Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/lib.rs:
+/Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/debug.rs:
+/Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/rtt.rs:
+/Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/init.rs:
+/Users/min22/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtt-target-0.6.1/src/print.rs:
